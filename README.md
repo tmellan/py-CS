@@ -2,7 +2,7 @@
 Compressive sensing -- python3
 
 ### Algorithms
-1. [IRLS](www.sciencedirect.com/science/article/pii/S092523121300430X)
+1. [Iteratively Reweighted Least Squares (IRLS) Lp Minimization.](https://www.sciencedirect.com/science/article/pii/S092523121300430X)
 
 ### Set up
 ```bash
